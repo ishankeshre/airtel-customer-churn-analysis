@@ -1,10 +1,10 @@
 # Airtel Customer Churn Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer churn for a telecom company using **Microsoft Excel**. The objective is to identify customer segments with higher churn rates, understand factors associated with customer attrition, and present the findings through an interactive dashboard.
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze overall customer churn
 * Identify customer segments with higher churn rates
@@ -13,7 +13,7 @@ This project analyzes customer churn for a telecom company using **Microsoft Exc
 * Build an Excel dashboard to present key KPIs and insights
 * Support data-driven customer retention decisions
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 * Microsoft Excel
 * Pivot Tables
@@ -25,7 +25,7 @@ This project analyzes customer churn for a telecom company using **Microsoft Exc
 * Dashboard Development
 * Business Analysis
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **4,250 customer records** with information related to:
 
@@ -38,7 +38,7 @@ The dataset contains **4,250 customer records** with information related to:
 * Customer service calls
 * Customer churn status
 
-## 🔍 Analysis
+## Analysis
 
 The project is divided into three levels:
 
@@ -62,24 +62,24 @@ The project is divided into three levels:
 * Additional segmentation and churn analysis
 * Assessment of analytical methods that cannot be reliably performed using standard Excel functionality
 
-## 📈 Dashboard
+## Dashboard
 
 The project includes an Excel dashboard presenting key customer churn KPIs and retention analysis.
 
-**Key metrics:**
+### Key Metrics
 
 * **Total Customers:** 4,250
 * **Churned Customers:** 598
 * **Overall Churn Rate:** 14.07%
 
-## 💡 Key Insights
+## Key Insights
 
 * **14.07%** of the customers in the dataset have churned.
 * Customers making **4 or more customer service calls** have a significantly higher churn rate of approximately **50.75%**, compared with **10.93%** for customers making 3 or fewer calls.
 * Among the three area codes, **area_code_510** has the highest churn rate at approximately **15.06%**.
 * Account tenure shows only a very weak relationship with churn, with a correlation of approximately **0.019**, suggesting that tenure alone is not a strong churn indicator in this dataset.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Airtel-Customer-Churn-Analysis/
@@ -89,12 +89,11 @@ Airtel-Customer-Churn-Analysis/
 └── screenshots/
     └── dashboard.png
 ```
-
-## 📌 Conclusion
+## Conclusion
 
 The analysis highlights customer service interactions as a particularly strong indicator of churn in this dataset. The project demonstrates how Excel can be used to transform raw customer data into structured analysis, KPIs, business insights, and an interactive dashboard.
 
-## 👤 Author
+## Author
 
 **Ishan Keshre**
 
