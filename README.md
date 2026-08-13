@@ -90,12 +90,6 @@ Airtel-Customer-Churn-Analysis/
     └── dashboard.png
 ```
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot here:
-
-![Airtel Customer Churn Dashboard](screenshots/dashboard.png)
-
 ## 📌 Conclusion
 
 The analysis highlights customer service interactions as a particularly strong indicator of churn in this dataset. The project demonstrates how Excel can be used to transform raw customer data into structured analysis, KPIs, business insights, and an interactive dashboard.
